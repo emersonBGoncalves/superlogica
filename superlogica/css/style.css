@@ -1,0 +1,33 @@
+html
+{
+	width: 30%;
+    padding: 50px;
+}
+
+#focus
+{
+	border-color: red;
+}
+
+.div_red
+{
+	width: 100%;
+    background-color: red;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.div_verde
+{
+	width: 100%;
+    background-color: green;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.oculto
+{
+	display: none;
+}
